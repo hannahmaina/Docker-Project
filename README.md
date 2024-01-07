@@ -187,4 +187,9 @@ login with your docker ID you used when created DockerHub account (u doing this 
 
 ## Than push run this command
     -docker push hannahmaina/my-first-docker-image:latest  (docker push name of your imag)
-Now go to your desktop and login to your docker account eg in firefox or
+Now go to your desktop and login to your docker account eg in firefox or and you can see your image that just created.
+
+Once you see image created in your DockerHub account, take that cammand in dockerHub and run it terminal to see images by
+running the following commands
+## docker images command
+Now I have created my first docker image and container
