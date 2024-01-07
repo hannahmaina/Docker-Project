@@ -159,7 +159,8 @@ Use the same command again, to verify that docker is up and running.
 ```
 docker run hello-world
 ```
-Now let start with creating folder to write my first Dockerfile 
+## Now let start with creating folder to write my first Dockerfile 
+
 To do that clone you git repository 
 by writting 
-git clone
+## git clone https://github.com/hannahmaina/Docker-Project.git
