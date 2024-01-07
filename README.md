@@ -164,3 +164,13 @@ docker run hello-world
 To do that clone you git repository 
 by writting 
 ## git clone https://github.com/hannahmaina/Docker-Project.git
+
+Login to Docker account
+## docker login
+login with your docker ID the
+## Username:
+## Password:
+
+#### Then build your first Docker Image
+by running the following command
+### docker build -t hannahmaina/my-first-docker-image:latest .    (here change your name)
