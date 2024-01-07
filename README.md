@@ -165,13 +165,23 @@ To do that clone you git repository
 by writting 
 ## git clone https://github.com/hannahmaina/Docker-Project.git
 
-Login to Docker account
-## docker login
+#### Then build your first Docker Image
+by running the following command
+### docker build -t hannahmaina/my-first-docker-image:latest .
+(This is my tag name hannahmaina/my-first-docker-image:latest) 
+The image build is seccusfully build
+
+## Now I want to exucute this image and see how my application run
+''So to run my application
+Run the following commands
+
+#### docker run -it hannahmaina/my-first-docker-image:latest HERE (docker run -it followed by imagine ID)
+And ouput will be   Hello World
+
+########## Now to push this Image/application to DockerHub
+I need to Login to Docker account
+## in terminal type docker login
 login with your docker ID the
 ## Username:
 ## Password:
 
-#### Then build your first Docker Image
-by running the following command
-### docker build -t hannahmaina/my-first-docker-image:latest .
-(This is my tag namenamehannahmaina/my-first-docker-image:latest)
