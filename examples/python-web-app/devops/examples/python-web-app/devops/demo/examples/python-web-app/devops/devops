@@ -1,0 +1,8 @@
+db.sqlite3
+manage.py
+Dockerfile
+requirements.txt
+README.md
+commands.md
+networking.md
+volumes.md
