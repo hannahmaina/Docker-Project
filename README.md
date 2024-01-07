@@ -173,4 +173,5 @@ login with your docker ID the
 
 #### Then build your first Docker Image
 by running the following command
-### docker build -t hannahmaina/my-first-docker-image:latest .    (here change your name)
+### docker build -t hannahmaina/my-first-docker-image:latest .
+(This is my tag namenamehannahmaina/my-first-docker-image:latest)
