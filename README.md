@@ -181,7 +181,10 @@ And ouput will be   Hello World
 ########## Now to push this Image/application to DockerHub
 I need to Login to Docker account
 ## in terminal type docker login
-login with your docker ID the
-## Username:
-## Password:
+login with your docker ID you used when created DockerHub account (u doing this in termin)
+## your Username:
+## your Password:
 
+## Than push run this command
+    -docker push hannahmaina/my-first-docker-image:latest  (docker push name of your imag)
+Now go to your desktop and login to your docker account eg in firefox or
